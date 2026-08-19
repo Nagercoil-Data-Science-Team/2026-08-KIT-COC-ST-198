@@ -1,1 +1,3 @@
-# 2026-08-KIT-COC-ST-198
+Title: Cloud-Based E-Commerce Sales Exploratory Data Analysis and Cloud Storage Integration
+
+Domain: Cloud Storage,E-commerce,EDA
